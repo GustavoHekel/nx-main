@@ -14,7 +14,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@nx-demo/contracts": ["libs/contracts/src/index.ts"],
+      "@nx-demo/web-lib": ["libs/web-lib/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
