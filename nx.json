@@ -56,5 +56,15 @@
         "linter": "eslint"
       }
     }
+  },
+  "release": {
+    "projects": ["web-app"],
+    "projectsRelationship": "independent",
+    "changelog": {
+      "workspaceChangelog": {
+        "file": false,
+        "createRelease": "github"
+      }
+    }
   }
 }
