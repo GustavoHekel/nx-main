@@ -1,3 +1,2 @@
-[submodule "webapp"]
-	path = apps/web-app
-	url = https://github.com/GustavoHekel/nx-web-app
+[submodule "https://github.com/GustavoHekel/nx-web-app"]
+	url = apps/web-app
