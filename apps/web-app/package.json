@@ -1,4 +1,5 @@
 {
   "version": "0.2.4",
-  "packageRoot": "../package.json"
+  "packageRoot": "../package.json",
+  "name": "web-app"
 }
